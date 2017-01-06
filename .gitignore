@@ -1,0 +1,16 @@
+##########
+# UNREAL #
+##########
+
+*/Build
+*/Binaries
+*/DerivedDataCache
+*/Intermediate
+*/Saved
+/RoomScape/Content/StarterContent
+
+######
+# VS #
+######
+
+*.VC.db
